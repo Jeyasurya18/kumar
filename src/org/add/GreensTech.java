@@ -26,6 +26,15 @@ public class GreensTech {
 		System.out.println("Greens Trichy is Trichy");
 
 	}
+	public static void main(String[] args) {
+		GreensTech g=new GreensTech();
+		g.greensAdayar();
+		g.greensAnnanagar();
+		g.greensOmr();
+		g.greensTambaram();
+		g.greensTrichy();
+		g.greensVelacherry();
+	}
 
 	
 	
