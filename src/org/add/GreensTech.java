@@ -20,16 +20,17 @@ public class GreensTech {
 	}
 	private void greensAnnanagar() {
 	System.out.println("Greens Annanagar is Chennai");
+	
+	}
+	private void greensTrichy() {
+		System.out.println("Greens Trichy is Trichy");
 
 	}
-	public static void main(String[] args) {
-		GreensTech g= new GreensTech();
-				g.greensOmr();
-				g.greensAdayar();
-				g.greensTambaram();
-				g.greensVelacherry();
-				g.greensAnnanagar();
+
+	
+	
+				
 				
 	}
 
-}
+
